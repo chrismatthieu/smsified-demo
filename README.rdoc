@@ -1,0 +1,11 @@
+= SMSified Demo
+
+Send an SMS message using the SMSified Ruby gem
+
+= Requires
+
+- Free SMSified developer account at http://smsified.com
+- gem install smsified
+
+- Happy Texting!
+
